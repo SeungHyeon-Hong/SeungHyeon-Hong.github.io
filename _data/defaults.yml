@@ -1,4 +1,4 @@
 home:
-  heading: "Your awesome heading"
-  subheading: "Your awesome subheading"
+  heading: "프로젝트 소개" #"Your awesome heading"
+  subheading: "포트폴리오 & 기술소개서 & 프로젝트 경력서" #"Your awesome subheading"
   banner: "Your image url"
