@@ -50,7 +50,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://seunghyeon-hong.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
-favicon: "" # the favicon for your site
+favicon: "assets/img/favicon-32x32.png" # the favicon for your site
 
 # Yat date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
@@ -147,19 +147,19 @@ lang: "ko"  # default lang is en
 
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
-# header_pages:
-#   - index.html
-#   - archives.html
-#   - categories.html
-#   - tags.html
-#   - about.md
+header_pages:
+  - index.html
+  - archives.html
+  - categories.html
+  - tags.html
+  - about.md
 
 # Page default value
-# defaults:
-#   home:
-#     heading: "Your awesome heading"
-#     subheading: "Your awesome subheading"
-#     banner: "Your image url"
+defaults:
+  home:
+    heading: "프로젝트 소개" #"Your awesome heading"
+    subheading: "포트폴리오 & 기술소개서 & 프로젝트 경력서" #"Your awesome subheading"
+    banner: "Your image url"
 
 # Banner default settings
 # These banner settings are for global banner default, but you can also
@@ -196,7 +196,7 @@ lang: "ko"  # default lang is en
 #   redirect_uri: "Your redirect url"   # If you use a custom domain name
 
 # Build settings
-# highlighter: none
+ highlighter: github #none
 markdown: kramdown
 kmarkdown:
   input: GFM
