@@ -2,12 +2,12 @@
 layout: post
 title: The first Project
 subtitle: The first job as programmer
-categories: markdown
-tags: [test]
+categories: Live Service Solution R&D
+tags: [LiveService, R&D]
 ---
 
 
-2019-12-16 - 2021-03-01
+2019-12-16 ~ 2021-03-01
 
 This note demonstrates some of what [Markdown][1] is capable of doing.
 
