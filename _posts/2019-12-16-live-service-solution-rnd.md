@@ -63,7 +63,7 @@ tags:
 <div style="display: grid; margin : 10px 40px; padding : 10px; place-content: center; place-items: center; grid-auto-flow: column; text-align: center;">
   <div style="display: inline-block; padding: 10px;">
     <a href="http://playsq.co.kr/" target="_blank">
-      <img src="http://playsq.co.kr/include/resources/images/main/img_logo.png" style="weight: 256px;" alt="PLAYSQ Site Link">
+      <p style="color:#40E0D0; font-weight:bold;">PLAYSQ Site Link</p>
     </a>
   </div>
   <div style="display: inline-block; padding: 10px;">
