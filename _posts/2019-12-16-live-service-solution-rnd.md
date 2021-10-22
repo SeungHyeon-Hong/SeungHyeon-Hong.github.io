@@ -60,7 +60,7 @@ tags:
 <div style="display: grid; padding: 20px 0; place-content: center; place-items: center; grid-auto-flow: column; text-align: center;">
   <div style="display: inline-block; padding: 10px;">
     <a href="http://playsq.co.kr/" target="_blank">
-      <p style="color:#40E0D0; font-size:3em; font-weight:bold; vertical-align: sub;">PLAYSQ Site</p>
+      <p style="color:#40E0D0; font-size:2em; font-weight:bold; vertical-align: bottom;">PLAYSQ Site</p>
     </a>
   </div>
   <div style="display: inline-block; padding: 10px;">
@@ -74,8 +74,6 @@ tags:
     </a>
   </div>
 </div>
-  
-<p><br></p>
   
 <hr>
 
