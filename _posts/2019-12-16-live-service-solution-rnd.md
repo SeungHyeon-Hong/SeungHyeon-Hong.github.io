@@ -1,14 +1,68 @@
 ---
 layout: post
-title: Live Service Solution R&D
+title: 라이브 서비스 솔루션 연구개발
 subtitle: 2019-12-16 ~ 2021-03-01 (1년 3개월)
 categories: Co.GnFlex
 tags: 
 ---
 
+# duddjehTmrh
+## 두개로도 써보고
+### 숫자1223445으로
+#### 4개이당
+##### 아아아아앙slslslslsljririwie
+###### dfa;lkdjflkdsajfkds
 
 
-tags: [LiveService, R&D, Encryption, HomeTool, Unity]
+# 주 프로젝트 : 라이브 서비스 솔루션  
+|프로젝트명|라이브 서비스 솔루션 R&D|기간|2019-12-16 ~ 2021-03-01 (1년 3개월)|
+|:---|:---|:---|
+|개요|교육용 인터렉티브 컨텐츠 개발|팀원|4명|
+|주요 역할 및 담당|클라이언트 개발 전반. 기술조사.|||
+|성과|서비스 개발 완료.<br>서비스 Loader와 Launcher, 1년차 서비스 Contents 10여편 제작.|||
+
+### 단기 프로젝트 : 분당 소재 키즈카페 체험존 설치, 운영.(2020년 6월부터 약 3개월)
+### 단기 프로젝트 : 프레젠테이션 용 시연 패키지 제작.
+
+### 단기 프로젝트 : 라이선스 기능.
+|프로젝트명|라이선스 기능 개발|기간|2020-09-01 ~ 2020-09-20 (약2주)|
+|:---|:---|:---|
+|개요|구독or판매를 위해 사용제어 장치를 마련|팀원|2명|
+|주요 역할 및 담당|클라이언트.|||
+|성과|개발완료.<br>Sha2-256 암호화 기술을 사용, DLL로 코드를 숨김.<br>영업팀에서 라이선스 발급에 사용할 홈툴 제작.|||
+
+<hr>
+
+# 투입  
+- 인원 : 아트2, 프로그래머2  
+- 기간 : 1년 3개월  
+- 개발툴 : Unity, Visual Studio
+
+# 산출  
+- 플랫폼 : Windows OS, 인터렉티브 컨텐츠  
+- Loader_ 런쳐의 인스톨러  
+- Launcher_ 런쳐  
+- Content_ 1년차 서비스 컨텐츠 10여편 제작.  
+- 전국 유치원과 연결된 공급망에 유통계약 체결, 2021년부터 라이브 서비스 제공 중.  
+
+# 연구개발  
+- 모션인식 적용 테스트_ Kinect v2, Azure  
+- 서버환경 변화에 대응  
+
+<hr>
+
+### Etc.  
+초기에는 연구를 중심으로 기술적용 방법을 연구했다.<br>
+이후 솔루션이 자리잡자 시연, 홍보를 위한 단기 패키징 작업이 주를 이뤘다.<br>
+동시에 라이브 서비스 준비를 진행,<br>
+서비스 계약이 성사된 후에는 추가 컨텐츠를 제작했다.<br>
+
+
+### 서비스 컨텐츠 링크
+<i class="fab fa-youtube"></i>
+
+![icon](<i class="fab fa-youtube"></i>)(http://www.gnflex.co.kr/)
+
 Co.GnFlex
 http://www.gnflex.co.kr/
 
@@ -25,6 +79,7 @@ https://www.youtube.com/channel/UCUz80hTii_HvnKrXiBESQqw
 공식블로그
 https://blog.naver.com/playsq0104
 
+<i class="fab fa-youtube"></i>
 
 
 
