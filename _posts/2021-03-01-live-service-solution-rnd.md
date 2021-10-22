@@ -26,7 +26,7 @@ https://www.youtube.com/watch?v=FNjFhpzwAfo&list=PLMDGRxkeYQDoy7xsvpCEh9upldNGnN
 
 
 ```mermaid!
-stateDiagram-v2
+stateDiagram
 state Launcher_Process{
     state Login{
         direction LR
