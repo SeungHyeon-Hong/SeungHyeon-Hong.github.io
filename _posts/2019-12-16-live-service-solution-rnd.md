@@ -62,7 +62,7 @@ tags:
 
 <div style="display: grid; margin : 10px 40px; padding : 10px; place-content: center; place-items: center; grid-auto-flow: column; text-align: center;">
   <div style="display: inline-block; padding: 10px;">
-    <a href="https://www.nextunicorn.kr/newsroom/10b95dd2afc9bc64" target="_blank">
+    <a href="http://playsq.co.kr/" target="_blank">
       <img src="http://playsq.co.kr/include/resources/images/main/img_logo.png" style="weight: 256px;" alt="PLAYSQ Site Link">
     </a>
   </div>
