@@ -7,7 +7,6 @@ tags:
 ---
 
 
-
 ## 주 프로젝트
 - **라이브 서비스 솔루션**  
 
@@ -28,38 +27,56 @@ tags:
 | 주요 역할 및 담당 |클라이언트 개발. |||  
 | 성과 | 개발완료.<br>Sha2-256 암호화 기술을 사용, DLL로 코드를 숨김.<br>영업팀에서 라이선스 발급에 사용할 홈툴 제작. |||  
 
-<hr>
-
 ## 프로젝트 명세
 - **투입**  
   - 인원 : 아트2, 프로그래머2  
   - 기간 : 1년 3개월  
-  - 개발툴 : Unity, Visual Studio
+  - 개발툴 : Unity, Visual Studio  
+<br>
+
 - **산출**  
   - 플랫폼 : Windows OS, 인터렉티브 컨텐츠  
   - Loader_ 런쳐의 인스톨러  
   - Launcher_ 런쳐  
   - Content_ 1년차 서비스 컨텐츠 10여편 제작.  
   - 전국 유치원과 연결된 공급망에 유통계약 체결, 2021년부터 라이브 서비스 제공 중.  
+<br>
+
 - **연구개발 내용**  
   - 모션인식 적용 테스트_ Kinect v2, Azure  
   - 데이터마이닝    
+<br>
 
 <hr>
 
 ## Etc.  
-초기에는 연구를 중심으로 기술적용 방법을 연구했다.<br>
-이후 솔루션이 자리잡자 시연, 홍보를 위한 단기 패키징 작업이 주를 이뤘다.<br>
-동시에 라이브 서비스 준비를 진행,<br>
-서비스 계약이 성사된 후에는 추가 컨텐츠를 제작했다.<br>
+<p>
+  초기에는 연구를 중심으로 기술적용 방법을 연구했다. 이후 솔루션이 자리잡자 시연, 홍보를 위한 단기 패키징 작업이 주를 이뤘다.<br>
+  동시에 라이브 서비스 준비를 진행, 서비스 계약이 성사된 후에는 추가 컨텐츠를 제작했다.<br>
+</p>
+<p>
+  매년 추가되는 인터렉티브 컨텐츠를 소비한 플레이어(어린이)의 움직임을 수집하여 발달정도를 분석, 제공하는 서비스이다.<br>
+  2021년 2분기 이후 솔루션은 안정화 되었다. 지속적으로 컨텐츠를 제작&서비스 할 수 있도록 설계되었다.<br>
+</p>
+<p><br></p>
 
 <hr>
 
-### 서비스 컨텐츠 링크
-- 유통 자회사 [**PLAYSQ**](https://www.nextunicorn.kr/newsroom/10b95dd2afc9bc64)의 홍보 유튜브
-  [![PLAYSQ Youtube Link](https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/120px-YouTube_full-color_icon_%282017%29.svg.png)](https://www.youtube.com/channel/UCUz80hTii_HvnKrXiBESQqw)
-- 공식블로그
-  [![PLAYSQ 네이버블로그 Link](https://w.namu.la/s/7f46f2b6e9ed994a9b56221f87878fc295ab1155c6be3439de558677827c0768c5675dd3612a0261d618758a8cf0c3be9a78295481ec829e23c8d458f59a0ac7d4ba15b7e4b82ac32a076a2a7d58e1809ee6b14378dc7d790c6baf0118e5f58e)](https://blog.naver.com/playsq0104)
+## 서비스 컨텐츠 링크
+- 유통 자회사 [**PLAYSQ**](https://www.nextunicorn.kr/newsroom/10b95dd2afc9bc64) 의 홍보 링크
+
+<div class="SNSBox" style="display: grid; margin : 10px 40px; padding : 10px; place-content: center; place-items: center; grid-auto-flow: column; text-align: center;">
+  <div class="SNSlinks" style="display: inline-block; padding: 10px;">
+    <a href="https://www.youtube.com/channel/UCUz80hTii_HvnKrXiBESQqw" target="_blank">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/120px-YouTube_full-color_icon_%282017%29.svg.png" style="width: 64px;" alt="PLAYSQ Youtube Link">
+    </a>
+  </div>
+  <div class="SNSlinks" style="display: inline-block; padding: 10px;">
+    <a href="https://blog.naver.com/playsq0104" target="_blank">
+      <img src="https://w.namu.la/s/7f46f2b6e9ed994a9b56221f87878fc295ab1155c6be3439de558677827c0768c5675dd3612a0261d618758a8cf0c3be9a78295481ec829e23c8d458f59a0ac7d4ba15b7e4b82ac32a076a2a7d58e1809ee6b14378dc7d790c6baf0118e5f58e" style="width: 64px;" alt="PLAYSQ 네이버블로그 Link">
+    </a>
+  </div>
+
   
 <hr>
 
