@@ -17,12 +17,20 @@ https://www.youtube.com/channel/UCUz80hTii_HvnKrXiBESQqw
 https://www.youtube.com/watch?v=FNjFhpzwAfo&list=PLMDGRxkeYQDoy7xsvpCEh9upldNGnN7_Q&index=1
 
 
-```mermaid!
-graph TD
-A[Christmas] -->|Get money| B(Go shopping)
-  B --> C{Let me think}
-  C -->|One| D[Laptop]
-  C -->|Two| E[iPhone]
-  C -->|Three| F[fa:fa-car Car]
-```
+@startmermaid  
+pie title Pets adopted by volunteers  
+  "Dogs" : 386  
+  "Cats" : 85  
+  "Rats" : 35  
+@endmermaid  
+
+
+```mermaid!  
+graph TD  
+A[Christmas] -->|Get money| B(Go shopping)  
+  B --> C{Let me think}  
+  C -->|One| D[Laptop]  
+  C -->|Two| E[iPhone]  
+  C -->|Three| F[fa:fa-car Car]  
+```  
 
