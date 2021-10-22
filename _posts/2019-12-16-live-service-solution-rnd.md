@@ -65,6 +65,7 @@ tags:
     <a href="https://www.nextunicorn.kr/newsroom/10b95dd2afc9bc64" target="_blank">
       <img src="http://playsq.co.kr/include/resources/images/main/img_logo.png" style="weight: 256px;" alt="PLAYSQ Site Link">
     </a>
+  </div>
   <div style="display: inline-block; padding: 10px;">
     <a href="https://www.youtube.com/channel/UCUz80hTii_HvnKrXiBESQqw" target="_blank">
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/120px-YouTube_full-color_icon_%282017%29.svg.png" style="width: 64px;" alt="PLAYSQ Youtube Link">
