@@ -10,8 +10,8 @@ tags:
 ## 주 프로젝트
 - **라이브 서비스 솔루션**  
 
-| 프로젝트명 | 라이브 서비스 솔루션 R&D | 기간 | 2019-12-16 ~ 2021-03-01 (1년 3개월) |  
 | :--- | :--- | :--- | :--- |  
+| 프로젝트명 | 라이브 서비스 솔루션 R&D | 기간 | 2019-12-16 ~ 2021-03-01 (1년 3개월) |  
 | 개요 | 교육용 인터렉티브 컨텐츠 개발 | 팀원 | 4명 |  
 | 주요 역할 및 담당 | 클라이언트 개발 전반. 기술조사. |||  
 | 성과 | 서비스 개발 완료.<br>서비스 Loader와 Launcher, 1년차 서비스 Contents 10여편 제작. |||  
@@ -21,8 +21,8 @@ tags:
 - 프레젠테이션 용 **시연 패키지 제작**  
 - **라이선스 기능 개발**  
 
-| 프로젝트명 | 라이선스 기능 개발 | 기간 | 2020-09-01 ~ 2020-09-20 (약2주) |  
 | :--- | :--- | :--- | :--- |  
+| 프로젝트명 | 라이선스 기능 개발 | 기간 | 2020-09-01 ~ 2020-09-20 (약2주) |  
 | 개요 | 구독or판매를 위해 사용제어 장치를 마련 | 팀원 | 2명 |  
 | 주요 역할 및 담당 |클라이언트 개발. |||  
 | 성과 | 개발완료.<br>Sha2-256 암호화 기술을 사용, DLL로 코드를 숨김.<br>영업팀에서 라이선스 발급에 사용할 홈툴 제작. |||  
@@ -60,7 +60,7 @@ tags:
 <div style="display: grid; margin : 10px 40px; padding : 10px; place-content: left; place-items: center; grid-auto-flow: column; text-align: center;">
   <div style="display: inline-block; padding: 10px;">
     <a href="http://playsq.co.kr/" target="_blank">
-      <p style="color:#40E0D0; font-size:4em; font-weight:bold;">PLAYSQ Site</p>
+      <p style="color:#40E0D0; font-size:3em; font-weight:bold; vertical-align:baseline;">PLAYSQ Site</p>
     </a>
   </div>
   <div style="display: inline-block; padding: 10px;">
