@@ -56,13 +56,10 @@ tags:
   2021년 2분기 이후 솔루션은 안정화 되었고 지속적으로 컨텐츠만 추가 제작하도록 설계했다.<br>
   제작한 내용이 실제 어떻게 서비스되고 있는 지 이해를 돕기 위한 링크를 첨부한다.
 </p>
-
+<p>
+  G&Flex의 유통자회사 <span style="color:#40E0D0; font-size:2em; font-weight:bold;"><a href="http://playsq.co.kr/" target="_blank">PLAYSQ</a>의 웹사이트와 공식SNS 이다.
+</p>
 <div style="display: grid; padding: 20px 0; place-content: center; place-items: center; grid-auto-flow: column; text-align: center;">
-  <div style="display: inline-block; padding: 10px;">
-    <a href="http://playsq.co.kr/" target="_blank">
-      <p style="color:#40E0D0; font-size:2em; font-weight:bold; vertical-align: bottom;">PLAYSQ Site</p>
-    </a>
-  </div>
   <div style="display: inline-block; padding: 10px;">
     <a href="https://www.youtube.com/channel/UCUz80hTii_HvnKrXiBESQqw" target="_blank">
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/120px-YouTube_full-color_icon_%282017%29.svg.png" style="width: 64px;" alt="PLAYSQ Youtube Link">
