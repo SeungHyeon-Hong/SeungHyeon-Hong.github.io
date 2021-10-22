@@ -57,7 +57,22 @@ tags:
   제작한 내용이 실제 어떻게 서비스되고 있는 지 이해를 돕기 위한 링크를 첨부한다.
 </p>
 <p>
-  G&Flex의 유통자회사 <span style="color:#40E0D0; font-size:2em; font-weight:bold;"><a href="http://playsq.co.kr/" target="_blank">PLAYSQ</a></span>의 웹사이트와 공식SNS 이다.
+  <a href="http://www.gnflex.co.kr/" target="_blank"><span style="color:#ff4500; font-size:2em; font-weight:bold;">G&FLEX</span></a>의 유통자회사 <a href="http://playsq.co.kr/" target="_blank"><span style="color:#40E0D0; font-size:2em; font-weight:bold;">PLAYSQ</span></a>의 공식SNS 이다.
+  &nbsp;
+  <div style="display: inline-block; padding: 10px;">
+    <a href="https://www.youtube.com/channel/UCUz80hTii_HvnKrXiBESQqw" target="_blank">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/120px-YouTube_full-color_icon_%282017%29.svg.png" style="width: 64px;" alt="PLAYSQ Youtube Link">
+    </a>
+  </div>
+  &nbsp;
+  <div style="display: inline-block; padding: 10px;">
+    <a href="https://blog.naver.com/playsq0104" target="_blank">
+      <img src="https://w.namu.la/s/7f46f2b6e9ed994a9b56221f87878fc295ab1155c6be3439de558677827c0768c5675dd3612a0261d618758a8cf0c3be9a78295481ec829e23c8d458f59a0ac7d4ba15b7e4b82ac32a076a2a7d58e1809ee6b14378dc7d790c6baf0118e5f58e" style="width: 64px;" alt="PLAYSQ 네이버블로그 Link">
+    </a>
+  </div>
+</p>
+  
+<!--   
 <div style="display: grid; padding: 20px 0; place-content: center; place-items: center; grid-auto-flow: column; text-align: center;">
   <div style="display: inline-block; padding: 10px;">
     <a href="https://www.youtube.com/channel/UCUz80hTii_HvnKrXiBESQqw" target="_blank">
@@ -69,8 +84,8 @@ tags:
       <img src="https://w.namu.la/s/7f46f2b6e9ed994a9b56221f87878fc295ab1155c6be3439de558677827c0768c5675dd3612a0261d618758a8cf0c3be9a78295481ec829e23c8d458f59a0ac7d4ba15b7e4b82ac32a076a2a7d58e1809ee6b14378dc7d790c6baf0118e5f58e" style="width: 64px;" alt="PLAYSQ 네이버블로그 Link">
     </a>
   </div>
-</div>
-  </p>
+</div> -->
+  
   
 <hr>
 
