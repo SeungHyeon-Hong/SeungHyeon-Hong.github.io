@@ -16,7 +16,16 @@ https://www.youtube.com/channel/UCUz80hTii_HvnKrXiBESQqw
 플레이목차.
 https://www.youtube.com/watch?v=FNjFhpzwAfo&list=PLMDGRxkeYQDoy7xsvpCEh9upldNGnN7_Q&index=1
 
+```mermaid!
+stateDiagram
+[*] --> Still
+Still --> [*]
 
+Still --> Moving
+Moving --> Still
+Moving --> Crash
+Crash --> [*]
+```
 
 [![Main Loader Process](https://mermaid.ink/img/eyJjb2RlIjoic3RhdGVEaWFncmFtLXYyXG5zdGF0ZSBDYWxsX0xhdW5jaGVyX1ZlcnNpb24ge1xuICAgIGRpcmVjdGlvbiBMUlxuICAgIFsqXS0tPmNvbXBhcmVfd2l0aF9sb2NhbFxuICAgIGNvbXBhcmVfd2l0aF9sb2NhbCAtLT4gcmVhZHlfZm9yX2xhdW5jaCA6IGVxdWFsc1xuICAgIGNvbXBhcmVfd2l0aF9sb2NhbCAtLT4gZG93bmxvYWRfbmV3X2xhdW5jaGVyIDogbm90IGVxdWFsc1xuICAgIGRvd25sb2FkX25ld19sYXVuY2hlciAtLT4gcmVhZHlfZm9yX2xhdW5jaFxuICAgIHJlYWR5X2Zvcl9sYXVuY2ggLS0-IFsqXVxufVxuc3RhdGUgTWFpbl9Mb2FkZXJfUHJvY2Vzc3tcbiAgICBbKl0tLT4gQ2FsbF9MYXVuY2hlcl9WZXJzaW9uXG4gICAgQ2FsbF9MYXVuY2hlcl9WZXJzaW9uIC0tPiBMYXVuY2hlcl9zdGFydFxuICAgIExhdW5jaGVyX3N0YXJ0IC0tPiBraWxsX01haW5fTG9hZGVyXG4gICAga2lsbF9NYWluX0xvYWRlciAtLT5bKl1cbn0iLCJtZXJtYWlkIjp7InRoZW1lIjoiZGVmYXVsdCJ9LCJ1cGRhdGVFZGl0b3IiOnRydWUsImF1dG9TeW5jIjpmYWxzZSwidXBkYXRlRGlhZ3JhbSI6ZmFsc2V9)](https://mermaid.live/edit#eyJjb2RlIjoic3RhdGVEaWFncmFtLXYyXG5zdGF0ZSBDYWxsX0xhdW5jaGVyX1ZlcnNpb24ge1xuICAgIGRpcmVjdGlvbiBMUlxuICAgIFsqXS0tPmNvbXBhcmVfd2l0aF9sb2NhbFxuICAgIGNvbXBhcmVfd2l0aF9sb2NhbCAtLT4gcmVhZHlfZm9yX2xhdW5jaCA6IGVxdWFsc1xuICAgIGNvbXBhcmVfd2l0aF9sb2NhbCAtLT4gZG93bmxvYWRfbmV3X2xhdW5jaGVyIDogbm90IGVxdWFsc1xuICAgIGRvd25sb2FkX25ld19sYXVuY2hlciAtLT4gcmVhZHlfZm9yX2xhdW5jaFxuICAgIHJlYWR5X2Zvcl9sYXVuY2ggLS0-IFsqXVxufVxuc3RhdGUgTWFpbl9Mb2FkZXJfUHJvY2Vzc3tcbiAgICBbKl0tLT4gQ2FsbF9MYXVuY2hlcl9WZXJzaW9uXG4gICAgQ2FsbF9MYXVuY2hlcl9WZXJzaW9uIC0tPiBMYXVuY2hlcl9zdGFydFxuICAgIExhdW5jaGVyX3N0YXJ0IC0tPiBraWxsX01haW5fTG9hZGVyXG4gICAga2lsbF9NYWluX0xvYWRlciAtLT5bKl1cbn0iLCJtZXJtYWlkIjoie1xuICBcInRoZW1lXCI6IFwiZGVmYXVsdFwiXG59IiwidXBkYXRlRWRpdG9yIjp0cnVlLCJhdXRvU3luYyI6ZmFsc2UsInVwZGF0ZURpYWdyYW0iOmZhbHNlfQ)
 
@@ -38,3 +47,15 @@ ff-->h
 }
 
 ```
+
+```mermaid!
+stateDiagram
+[*] --> Still
+Still --> [*]
+
+Still --> Moving
+Moving --> Still
+Moving --> Crash
+Crash --> [*]
+```
+
