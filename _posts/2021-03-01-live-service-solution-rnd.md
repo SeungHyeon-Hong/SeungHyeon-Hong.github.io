@@ -27,48 +27,14 @@ https://www.youtube.com/watch?v=FNjFhpzwAfo&list=PLMDGRxkeYQDoy7xsvpCEh9upldNGnN
 
 ```mermaid!
 stateDiagram
-state Launcher_Process{
-    state Login{
-        direction LR
-        [*]-->send_request
-        send_request --> error_msg :not valuable.
-        send_request --> success
-        success-->[*] :return_datas_<br>from_server
-    }
-    state Check_Contents_Version{
-        direction LR
-        [*]-->compare_each_<br>content_version
-        compare_each_<br>content_version --> patched : equals
-        compare_each_<br>content_version --> download_<br>new_contents : not equals
-        download_<br>new_contents --> patched
-        patched-->[*]
-    }
-    state fork<<fork>>
-    state join <<join>>
-    state Choose_Content_Page{
-        [*]--> select_content
-        select_content-->select_modes
-        select_modes-->[*]
-    }
-
-    [*]-->Login
-    Login-->Check_Contents_Version
-    Check_Contents_Version-->fork
-    fork-->Organization1
-    fork-->Organization2
-    Organization1-->get_account
-    Organization2-->choose_number_<br>of_Org2player
-
-    state Set_Current_Players{
-        get_account-->choose_number_<br>of_player
-        choose_number_<br>of_player-->get_account : add more players
-        choose_number_<br>of_Org2player-->choose_player
-        choose_number_<br>of_player-->join :done
-        choose_player-->join
-    }
-    join-->Choose_Content_Page
-
-    Choose_Content_Page-->Content_start
-    Content_start-->Set_Current_Players :listen<br>if content ends..
+[*]-->aa
+aa-->bb
+```
+```mermaid!
+stateDiagram
+state tt{
+gg-->ff
+ff-->h
 }
+
 ```
