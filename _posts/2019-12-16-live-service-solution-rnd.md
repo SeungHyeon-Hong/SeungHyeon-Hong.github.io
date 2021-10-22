@@ -50,20 +50,17 @@ tags:
 
 <hr>
 
-### etc.  
+### 서비스 간략소개
 <p>
-  매년 추가되는 인터렉티브 컨텐츠를 소비한 플레이어(어린이)의 움직임을 수집하여 발달정도를 분석, 제공하는 서비스이다. 2021년 2분기 이후 솔루션은 안정화 되었고 지속적으로 컨텐츠를 제작&서비스 할 수 있도록 설계되었다.<br>
+  매년 추가되는 인터렉티브 컨텐츠를 소비한 플레이어(어린이)의 움직임을 수집하여 발달정도를 분석, 제공하는 서비스이다.<br>
+  2021년 2분기 이후 솔루션은 안정화 되었고 지속적으로 컨텐츠만 추가 제작하도록 설계했다.<br>
+  제작한 내용이 실제 어떻게 서비스되고 있는 지 이해를 돕기 위한 링크를 첨부한다.<br>
 </p>
-<p><br></p>
 
-<hr>
-
-### 서비스 링크
-
-<div style="display: grid; margin : 10px 40px; padding : 10px; place-content: center; place-items: center; grid-auto-flow: column; text-align: center;">
+<div style="display: grid; margin : 10px 40px; padding : 10px; place-content: left; place-items: center; grid-auto-flow: column; text-align: center;">
   <div style="display: inline-block; padding: 10px;">
     <a href="http://playsq.co.kr/" target="_blank">
-      <p style="color:#40E0D0; font-weight:bold;">PLAYSQ Site Link</p>
+      <p style="color:#40E0D0; font-size:4em; font-weight:bold;">PLAYSQ Site</p>
     </a>
   </div>
   <div style="display: inline-block; padding: 10px;">
