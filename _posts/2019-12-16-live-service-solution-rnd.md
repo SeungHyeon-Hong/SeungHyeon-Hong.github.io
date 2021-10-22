@@ -60,26 +60,25 @@ tags:
 
 ## 서비스 컨텐츠 링크
 - 유통 자회사 [**PLAYSQ**](https://www.nextunicorn.kr/newsroom/10b95dd2afc9bc64) 의 홍보 링크
-
-<a href="https://www.youtube.com/channel/UCUz80hTii_HvnKrXiBESQqw" target="_blank">
+<!-- <a href="https://www.youtube.com/channel/UCUz80hTii_HvnKrXiBESQqw" target="_blank" style="display: inline-block;">
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/120px-YouTube_full-color_icon_%282017%29.svg.png" style="width: 64px;" alt="PLAYSQ Youtube Link">
     </a>
-    <a href="https://blog.naver.com/playsq0104" target="_blank">
+    <a href="https://blog.naver.com/playsq0104" target="_blank" style="display: inline-block;">
       <img src="https://w.namu.la/s/7f46f2b6e9ed994a9b56221f87878fc295ab1155c6be3439de558677827c0768c5675dd3612a0261d618758a8cf0c3be9a78295481ec829e23c8d458f59a0ac7d4ba15b7e4b82ac32a076a2a7d58e1809ee6b14378dc7d790c6baf0118e5f58e" style="width: 64px;" alt="PLAYSQ 네이버블로그 Link">
-    </a>
+    </a> -->
     
-<!-- 
-<div class="SNSBox" style="display: grid; margin : 10px 40px; padding : 10px; place-content: center; place-items: center; grid-auto-flow: column; text-align: center;">
-  <div class="SNSlinks" style="display: inline-block; padding: 10px;">
+
+<div style="display: grid; margin : 10px 40px; padding : 10px; place-content: center; place-items: center; grid-auto-flow: column; text-align: center;">
+  <div style="display: inline-block; padding: 10px;">
     <a href="https://www.youtube.com/channel/UCUz80hTii_HvnKrXiBESQqw" target="_blank">
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/120px-YouTube_full-color_icon_%282017%29.svg.png" style="width: 64px;" alt="PLAYSQ Youtube Link">
     </a>
   </div>
-  <div class="SNSlinks" style="display: inline-block; padding: 10px;">
+  <div style="display: inline-block; padding: 10px;">
     <a href="https://blog.naver.com/playsq0104" target="_blank">
       <img src="https://w.namu.la/s/7f46f2b6e9ed994a9b56221f87878fc295ab1155c6be3439de558677827c0768c5675dd3612a0261d618758a8cf0c3be9a78295481ec829e23c8d458f59a0ac7d4ba15b7e4b82ac32a076a2a7d58e1809ee6b14378dc7d790c6baf0118e5f58e" style="width: 64px;" alt="PLAYSQ 네이버블로그 Link">
     </a>
-  </div> -->
+  </div>
 
   
 <hr>
