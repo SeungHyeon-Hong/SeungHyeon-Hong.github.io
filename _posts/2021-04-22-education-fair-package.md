@@ -66,9 +66,11 @@ tags:
 - 판매중인 교육 솔루션을 홍보하는 자리였기에 시스템은 분리시키고 동작은 라이브서비스와 같아야 했다.   
 - 별도의 프로그램을 제작하여 **데이터가 쌓이는 과정을 실시간으로 확인**하도록 했다.
 <br>
-<a href="https://www.instagram.com/playsq_official/?hl=en" target="_blank">
-   <img style="width: 64px; border-radius: 8px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/240px-Instagram_icon.png" alt="PLAYSQ Instagram Link">
-</a>
+<p>
+  <a href="https://www.instagram.com/playsq_official/?hl=en" target="_blank">
+     <img style="width: 64px; border-radius: 8px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/240px-Instagram_icon.png" alt="PLAYSQ Instagram Link">
+  </a>
+</p>
   
 <!-- [![PLAYSQ Instagram](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/240px-Instagram_icon.png)](https://www.instagram.com/playsq_official/?hl=en) -->
 
