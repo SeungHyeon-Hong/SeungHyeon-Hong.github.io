@@ -77,7 +77,7 @@ tags:
 <hr>
 
 ### Application.  
-<p>
+<p style="vertical-align: baseline;">
   <a href="https://play.google.com/" target="_blank" style="font-size:2em; font-weight:bold;">PlayStore</a> 혹은
    <a href="https://www.apple.com/app-store/" target="_blank" style="font-size:2em; font-weight:bold;">AppStore</a> 에서 '국립중앙과학관' 검색.
   &nbsp;
