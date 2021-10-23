@@ -72,14 +72,15 @@ tags:
 - **산출**  
   - 지원플랫폼 : AndroidOS, IOS.  
 <br>
-<p><br></p>
 
 ## Application.  
 <p>
-  <a href="https://play.google.com/" target="_blank"><b>PlayStore</b></a> 혹은
-   <a href="https://www.apple.com/app-store/" target="_blank"><b>AppStore</b></a> 에서 <b>국립중앙과학관</b> 검색.
+  <a href="https://play.google.com/" target="_blank" style="font-weight:bold;">PlayStore</a> 혹은
+   <a href="https://www.apple.com/app-store/" target="_blank" style="font-weight:bold;">AppStore</a> 에서 <span style="font-size:1.5em; font-weight:bold; font-color:midnightblue;">국립중앙과학관</span> 검색.
   &nbsp;
   <a href="https://play.google.com/store/apps/details?id=com.GnFlex.NationalScienceMuseum" target="_blank">
-     <img style="display:inline-block; width: 64px; border-radius: 10%; vertical-align: baseline;" src="https://play-lh.googleusercontent.com/HNOlTGmXIZ30_JKptYzwa501MxkpekvFsv37s9VtuVYBUcZX6qej_zhuCPR6qi3Le_g=s180-rw" alt="국립중앙과학관 관람안내 앱 아이콘">
+     <img style="display:inline-block; width: 64px; border-radius: 8px; vertical-align: baseline;" src="https://play-lh.googleusercontent.com/HNOlTGmXIZ30_JKptYzwa501MxkpekvFsv37s9VtuVYBUcZX6qej_zhuCPR6qi3Le_g=s180-rw" alt="국립중앙과학관 관람안내 앱 아이콘">
    </a>
 </p>
+
+<p><br></p>
