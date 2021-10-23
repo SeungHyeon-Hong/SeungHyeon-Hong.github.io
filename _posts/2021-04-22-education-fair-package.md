@@ -61,13 +61,19 @@ tags:
 <hr>
 
 ### 내용명세  
-- 서비스 중인 [교육 솔루션 상세설명 페이지](https://seunghyeon-hong.github.io/co.gnflex/2019/12/16/live-service-solution-rnd.html) 참조.
+- 서비스 중인 [교육 솔루션 상세설명](https://seunghyeon-hong.github.io/co.gnflex/2019/12/16/live-service-solution-rnd.html) 참조.
 - 교육박람회에 참가하여 체험부스를 운영하기로 결정하였다. 행사장의 특성 상 라이브서비스와 동일한 조건의 데이터를 쌓을 수 없다고 판단하여, 서버부터 컨텐츠까지 **완전히 분리된 시스템으로 기획**되었다.   
 - 판매중인 교육 솔루션을 홍보하는 자리였기에 시스템은 분리시키고 동작은 라이브서비스와 같아야 했다.   
 - 별도의 프로그램을 제작하여 **데이터가 쌓이는 과정을 실시간으로 확인**하도록 했다.
 <br>
-
-[![PLAYSQ Instagram](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/240px-Instagram_icon.png)](https://www.instagram.com/playsq_official/?hl=en)
+<p>
+  박람회 현장은 
+  <a href="https://www.instagram.com/playsq_official/?hl=en" target="_blank">
+     <img style="display:inline-block; width: 64px; border-radius: 8px; vertical-align: baseline;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/240px-Instagram_icon.png" alt="PLAYSQ Instagram Link">
+   </a>
+  에서 확인하세요!
+  
+<!-- [![PLAYSQ Instagram](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/240px-Instagram_icon.png)](https://www.instagram.com/playsq_official/?hl=en) -->
 
 <p><br></p>
   
