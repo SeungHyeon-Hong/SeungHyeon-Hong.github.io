@@ -68,7 +68,7 @@ tags:
 <br>
 <p>
   <a href="https://www.instagram.com/playsq_official/?hl=en" target="_blank">
-     <img style="width: 64px; border-radius: 8px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/240px-Instagram_icon.png" alt="PLAYSQ Instagram Link">
+     <img style="width: 64px; border-radius: 8px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/240px-Instagram_icon.png" title="박람회 현장 기록" alt="PLAYSQ Instagram Link">
   </a>
 </p>
   
