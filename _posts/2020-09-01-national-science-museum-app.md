@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 국립중앙과학관 App 고도화
+title: (외주)국립중앙과학관 App 고도화
 subtitle: 2020-09-01 ~ 2021-02-01 (5개월)
 categories: Co.GnFlex
 tags: 
