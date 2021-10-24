@@ -7,7 +7,7 @@ tags:
 ---
 
 ## 주 프로젝트
-- **Unity 파이프라인 교체**  
+- **Unity 3D에서 URP로 환경 변경**
 <table>
   <tr>
     <td>프로젝트명</td>
@@ -33,19 +33,24 @@ tags:
 
 
 ## Art파트의 요청 사항  
-- Visual Effect Graph 사용 희망.  
-    Visual Effect Graph 사용을 위해 Scriptable Render Pipeline이 요구됨.  
-- Spine 애니메이션 리소스에 normal map(노멀맵) 적용을 희망.  
-    노멀맵이 적용된 이미지를 시각적으로 확인하기 위하여 2D라이트가 요구됨.
+- **Unity 셰이더 그래프 사용 희망**  
+    셰이더 그래프(Visual Effect Graph) 사용을 위해 **Scriptable Render Pipeline(SRP)**이 요구됨.  
+- Spine 애니메이션 리소스에 **normal map(노멀맵) 적용을 희망** 
+    노멀맵이 적용된 이미지를 시각적으로 확인하기 위하여 **2D라이트**가 요구됨.
 <p>Scriptable Render Pipeline(SRP)에는 URP와 HDRP가 있다. 완제품의 서비스환경이 미니PC 기준이어서 고사양의 작업은 필요치 않기에, 비교적 가벼운 작업에 적합한 URP환경을 최종적으로 선택하였다. 또, SRP는 2DLight도 지원한다.
 </p>
 
 ## 기능 검증  
-URP는 비교적 최근에 만들어졌지만, 아트 파트에서 사용하는 애니메이션 툴인 Spine에서 URP를 지원하는 라이브러리를 제공했기에 문제는 없었다. 다만 최신버젼의 사용을 희망했기에 2021년 7월 기준, 최신 버젼인 [spine-unity 4.0](http://en.esotericsoftware.com/spine-unity-download#Installing-Extension-UPM-Packages)으로 버젼업하였다.  
+- 셰이더 그래프가 안정적으로 동작하는 Unity버젼에서 호환테스트.  
+- 셰이더 그래프로 제작한 이펙트와 컨텐츠 리소스 조합테스트.  
+- Spine 4.0을 URP 2D Render Pipeline 환경에서 테스트.  
+- 2D/3D환경의 동시사용불가 이슈가 있기에, 기획단계에서 결정하기로 협의.
+<br>
+
+URP는 비교적 최근에 만들어졌지만, 아트 파트에서 사용하는 애니메이션 툴인 [Spine에서 URP를 지원하는 라이브러리를 제공](http://en.esotericsoftware.com/spine-unity-download#Installing-Extension-UPM-Packages)했기에 문제는 없었다. 다만 최신버젼의 사용을 희망했기에 2021년 7월 기준, 최신 버젼인 spine-unity 4.0 으로 버젼업하였다.  
 
 공식아카이브에서 제공하는 패키지의 Example.  
 [![스파인 공식 제공 2D샘플](https://raw.githubusercontent.com/SeungHyeon-Hong/SeungHyeon-Hong.github.io/main/assets/img/20210701_urp_2drenderer_officialsample.png)](https://raw.githubusercontent.com/SeungHyeon-Hong/SeungHyeon-Hong.github.io/main/assets/img/20210701_urp_2drenderer_officialsample.png)
 
 Unity URP 2D 기본 셋팅 시의 라이트 적용 차이.  
 [![스파인 공식 제공 2D샘플](https://raw.githubusercontent.com/SeungHyeon-Hong/SeungHyeon-Hong.github.io/main/assets/img/20210701_urp_2drenderer_default_render_setting.png)](https://raw.githubusercontent.com/SeungHyeon-Hong/SeungHyeon-Hong.github.io/main/assets/img/20210701_urp_2drenderer_default_render_setting.png)
-
