@@ -3,13 +3,13 @@ layout: post
 title: Unity에서 Android 네이티브 코드 사용하기
 subtitle: 2020-05-24 ~ 2021-06-02 (2주)
 categories: zest.Activities  
-tags: [Unity, Android, AndroidNative, LocalStorage, Texture2D, Collaboration]  
+tags: [Unity, Android, NativeCode, LocalStorage, Texture2D, Collaboration]  
 ---
 
 ## 개요  
 - 제목_ 캐릭터 옷 갈아입히기(ChangeClothesYH)  
 - 기간_ 2020-05-24 ~ 2021-06-02 (2주)  
-- 팀원_ 2명  
+- 팀원_ 2명(Collabo)  
 - 결과_ APK Build
 <br>
 
@@ -20,7 +20,7 @@ tags: [Unity, Android, AndroidNative, LocalStorage, Texture2D, Collaboration]
 - 유니티에서 안드로이드 네이티브 코드 사용.  
 - 안드로이드 내부 저장소에 접근하여 파일 쓰기.  
 
-## Code.
+## Code  
 <div style="font-size: 1.2em; font-weight: bold;">안드로이드 객체 생성.</div>  
 ``` csharp
 var unityPlayer = new AndroidJavaClass("com.unity3d.player.UnityPlayer");
