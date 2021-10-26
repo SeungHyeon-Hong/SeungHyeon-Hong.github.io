@@ -6,8 +6,9 @@ categories: zest.Activities
 tags: [Unity, Android, AndroidNative, LocalStorage, Texture2D, Collaboration]  
 ---
 
-## 캐릭터 옷 갈아입히기(ChangeClothesYH)
-![Youtube Link](https://youtu.be/bqZkXvOmhbk)
+## 캐릭터 옷 갈아입히기  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bqZkXvOmhbk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br>
 
 <table>
   <tr>
@@ -34,14 +35,15 @@ tags: [Unity, Android, AndroidNative, LocalStorage, Texture2D, Collaboration]
 - 안드로이드 내부 저장소에 접근하여 파일 쓰기.  
 
 ## Code.
-1. 안드로이드 객체 생성.
---- csharp
+1. 안드로이드 객체 생성.  
+``` csharp
 var unityPlayer = new AndroidJavaClass("com.unity3d.player.UnityPlayer");
 AndroidJavaObject _activity = unityPlayer.GetStatic<AndroidJavaObject>("currentActivity");
----
+```  
+<br>
 
-2. Texture2D 데이터를 안드로이드 객체로 변환.
---- csharp
+2. Texture2D 데이터를 안드로이드 객체로 변환.  
+``` csharp
 public static AndroidJavaObject Texture2DToAndroidBitmap(Texture2D texture2D)
 {
     byte[] encoded = texture2D.EncodeToPNG();
@@ -50,10 +52,11 @@ public static AndroidJavaObject Texture2DToAndroidBitmap(Texture2D texture2D)
         return bf.CallStatic<AndroidJavaObject>("decodeByteArray", encoded, 0, encoded.Length);
     }
 }
----
+```  
+<br>
 
-3. 로컬저장소 쓰기 접근.
---- csharp
+3. 로컬저장소 쓰기 접근.  
+``` csharp
 private const string MediaStoreImagesMediaClass = "android.provider.MediaStore$Images$Media";
 public static void SaveImageToGallery(Texture2D texture2D, string title, string description)
 {
@@ -66,4 +69,5 @@ public static void SaveImageToGallery(Texture2D texture2D, string title, string 
         }
     }
 }
----
+```  
+<br>
