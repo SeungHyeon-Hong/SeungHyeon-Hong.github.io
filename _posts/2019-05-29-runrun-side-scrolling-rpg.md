@@ -18,6 +18,7 @@ tags: [Unity, PC, Android, Side-scrolling, RPG]
 ## 기획의도  
 - 2D 횡스크롤 RPG.  
 - 다양한 난이도의 맵을 제공.  
+- 키보드 조작(PC)과 터치 조작(Mobile)을 모두 구현.
 
 ## Code  
 <div style="font-size: 1.2em; font-weight: bold;">무한히 반복하는 맵</div>   
