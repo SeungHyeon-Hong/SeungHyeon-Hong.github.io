@@ -13,7 +13,7 @@ tags: [Unity, Android, NativeCode, LocalStorage, Texture2D, Collaboration]
 - 결과_ APK Build
 <br>
 
-<iframe style="displey:block; width:100%; hetght:100%;" width="560" height="315" src="https://www.youtube.com/embed/bqZkXvOmhbk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe style="displey:block; width:100%; hetght:100%;" width="360" height="640" src="https://www.youtube.com/embed/bqZkXvOmhbk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## 기획의도  
 - 2D아바타 커스터마이징 시스템.  
