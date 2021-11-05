@@ -13,7 +13,7 @@ tags: [Unity, PC, Android, Side-scrolling, RPG]
 - 결과_ PC/Mobile 크로스플랫폼 지원 빌드  
 <br>
 
-<iframe style="displey:block; width:100%; hetght:100%;" width="560" height="315" src="https://www.youtube.com/embed/-gJSakY-isQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe style="displey:block; width:100%; hetght:100%;" width="640" height="360" src="https://www.youtube.com/embed/-gJSakY-isQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## 기획의도  
 - 2D 횡스크롤 RPG.  
