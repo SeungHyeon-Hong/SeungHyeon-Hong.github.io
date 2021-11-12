@@ -3,7 +3,7 @@ layout: post
 title: Unity에서 Android 네이티브 코드 사용하기
 subtitle: 2020-05-24 ~ 2021-06-02 (2주)
 categories: zest.Activities  
-tags: [Unity, Android, NativeCode, LocalStorage, Texture2D, Collaboration]  
+tags: [Unity, Android, NativeCode, LocalStorage]  
 ---
 
 ## 개요  
