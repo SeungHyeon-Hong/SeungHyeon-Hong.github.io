@@ -33,10 +33,10 @@ tags:
 
 
 ## Art파트의 요청 사항  
-- **Unity 셰이더 그래프 사용 희망**  
-    셰이더 그래프(Visual Effect Graph) 사용을 위해 **Scriptable Render Pipeline(SRP)**이 요구됨.  
-- Spine 애니메이션 리소스에 **normal map(노멀맵) 적용을 희망** 
-    노멀맵이 적용된 이미지를 시각적으로 확인하기 위하여 **2D라이트**가 요구됨.
+- **Unity 셰이더 그래프 사용 희망**   
+    셰이더 그래프(Visual Effect Graph) 사용을 위해 **Scriptable Render Pipeline(SRP)**이 요구됨.   
+- Spine 애니메이션 리소스에 **normal map(노멀맵) 적용을 희망**   
+    노멀맵이 적용된 이미지를 시각적으로 확인하기 위하여 **2D라이트**가 요구됨.  
 <p>Scriptable Render Pipeline(SRP)에는 URP와 HDRP가 있다. 완제품의 서비스환경이 미니PC 기준이어서 고사양의 작업은 필요치 않기에, 비교적 가벼운 작업에 적합한 URP환경을 최종적으로 선택하였다. 또, SRP는 2DLight도 지원한다.
 </p>
 <p>차후 제작되는 컨텐츠는 2D와 3D리소스가 혼합 사용될 예정이다. 3D오브젝트를 자유롭게 사용하기 위해서 무엇보다도 셰이더가 중요하기에 관련 설정에 초점을 맞췄다. 그래서 특정 Unity 버젼에서 셰이더 그래프가 안정적으로 동작한다는 이펙터의 요청을 수렴하여, 가급적 교체하지 않는 Unity Editor의 버젼을 업그레이드 하였다. 
