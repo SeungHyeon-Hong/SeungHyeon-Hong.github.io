@@ -38,7 +38,6 @@ tags:
 | 성과 | Launcher 의 모드 추가에 따른 기능확장.<br>1년차 서비스 Contents 11편 유지보수.<br>모드 추가에 따른 전용 컨텐츠 3편 제작.<br>2년차 서비스 Contents 10편 추가 제작. |   -->
 
 - 기존 프로젝트 참고자료 -> Link to <a href="https://seunghyeon-hong.github.io/co.gnflex/2019/12/16/live-service-solution-rnd.html" target="_blank">**라이브 서비스 솔루션 연구개발**</a>  
-<br>
 
 ## 프로젝트 명세
 - **투입**  
@@ -52,5 +51,5 @@ tags:
   - Launcher_ 런쳐에 모드 추가.  
   - Content_ 모드 전용 3편, 2년차 서비스 컨텐츠 10편 추가 제작.  
   - 대규모 라이브 업데이트 완료.  
-<br>
+
 <p><br></p>
