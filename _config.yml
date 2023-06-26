@@ -40,7 +40,7 @@ author: SeungHyeon-Hong(ko.홍승현) #GitHub User
 #   "Copyright (c) 2017-{currentYear} <a href="https://example.com">{author}</a>"
 #   "Copyright © 2017-2021 Foobar"
 #
-copyright: "Unpublished Work (cleft) 2021-{currentYear} {author}"
+copyright: "Published Work (cleft) 2021-{currentYear} {author}"
 
 description: >- # this means to ignore newlines until "baseurl:"
     You found me!
@@ -150,6 +150,7 @@ lang: "ko"  # default lang is en
 header_pages:
   - index.html
   - about.html #md
+  - resume.html #경력개요 추가.
   - summary.html #경력개요 추가.
   - categories.html
   - tags.html
