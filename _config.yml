@@ -150,8 +150,7 @@ lang: "ko"  # default lang is en
 header_pages:
   - index.html
   - about.html #md
-  - resume.html #경력개요 추가.
-  - summary.html #경력개요 추가.
+  - resume.html #이력서 추가.
   - categories.html
   - tags.html
   - archives.html
