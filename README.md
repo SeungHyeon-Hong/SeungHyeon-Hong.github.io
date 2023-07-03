@@ -7,4 +7,9 @@
 JEKYLL YAT THEME  
 https://github.com/jeffreytse/jekyll-theme-yat  
 visit and star them. you will like it! :star_struck:  
-  
+
+BADGES
+https://shields.io/badges/static-badge
+
+ICONS
+https://simpleicons.org/?q=window
