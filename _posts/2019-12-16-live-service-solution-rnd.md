@@ -2,7 +2,7 @@
 layout: post
 title: 라이브 서비스 솔루션 연구개발
 subtitle: 2019-12-16 ~ 2021-03-01 (1년 3개월)
-categories: Co.GnFlex
+categories: 2019.Co.GnFlex
 tags: 
 ---
 

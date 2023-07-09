@@ -2,7 +2,7 @@
 layout: post
 title: 라이브 서비스 확장 개발
 subtitle: 2021-09-01 ~ 2022-02-28 (6개월)
-categories: Co.GnFlex
+categories: 2019.Co.GnFlex
 tags: 
 ---
 

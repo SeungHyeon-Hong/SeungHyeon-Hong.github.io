@@ -2,7 +2,7 @@
 layout: post
 title: 교육박람회 전용 패키지
 subtitle: 2021-04-22 ~ 2021-07-01 (2개월)
-categories: Co.GnFlex
+categories: 2019.Co.GnFlex
 tags: 
 ---
 

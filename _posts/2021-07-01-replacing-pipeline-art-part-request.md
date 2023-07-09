@@ -2,7 +2,7 @@
 layout: post
 title: Unity 파이프라인 교체
 subtitle: 2021-07-01 ~ 2021-08-31 (2개월)
-categories: Co.GnFlex
+categories: 2019.Co.GnFlex
 tags: 
 ---
 
