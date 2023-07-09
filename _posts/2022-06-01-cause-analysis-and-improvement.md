@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 인식률 저하 이슈 원인분석 및 개선
-subtitle: 2022-06-00 ~ 2022-08-00 (2개월)
+subtitle: 2022-06-01 ~ 2022-08-31 (2개월)
 categories: 2022.Co.Marvrus
 tags: 
 ---
@@ -13,7 +13,7 @@ tags:
     <td>프로젝트명</td>
     <td>인식률 저하 이슈 원인분석 및 개선</td>
     <td>기간</td>
-    <td>2022-06-00 ~ 2022-08-00 (2개월)</td>
+    <td>2022-06-01 ~ 2022-08-31 (2개월)</td>
   </tr>
   <tr>
     <td>개요</td>
@@ -43,7 +43,7 @@ tags:
 <p>기기와 방향이 고정되어있던 샘플(테스트)앱과 달리, 클라이언트에서는 유저 환경과 사용한 디바이스가 다양했다. 하여, 정방향이 아닌 이미지로 분석을 시도하는 경우가 존재했고 이 경우의 인식률이 현저히 낮았다.</p>
 
 정방향 이미지 각도의 예시  
-[![정방향 이미지 각도의 예시](https://raw.githubusercontent.com/SeungHyeon-Hong/SeungHyeon-Hong.github.io/main/assets/img/20220600_img_rotation_example.png)](https://raw.githubusercontent.com/SeungHyeon-Hong/SeungHyeon-Hong.github.io/main/assets/img/20220600_img_rotation_example.png)  
+[![정방향 이미지 각도의 예시](https://raw.githubusercontent.com/SeungHyeon-Hong/SeungHyeon-Hong.github.io/main/assets/img/20220601_img_rotation_example.png)](https://raw.githubusercontent.com/SeungHyeon-Hong/SeungHyeon-Hong.github.io/main/assets/img/20220601_img_rotation_example.png)  
 <br>
 
 ## 개선 방안 검토
@@ -75,12 +75,12 @@ tags:
 <br>
 
 이미지 회전 각도의 예시  
-[![이미지 회전 각도의 예시](https://raw.githubusercontent.com/SeungHyeon-Hong/SeungHyeon-Hong.github.io/main/assets/img/20220600_img_rotation_example2.png)](https://raw.githubusercontent.com/SeungHyeon-Hong/SeungHyeon-Hong.github.io/main/assets/img/20220600_img_rotation_example2.png)  
+[![이미지 회전 각도의 예시](https://raw.githubusercontent.com/SeungHyeon-Hong/SeungHyeon-Hong.github.io/main/assets/img/20220601_img_rotation_example2.png)](https://raw.githubusercontent.com/SeungHyeon-Hong/SeungHyeon-Hong.github.io/main/assets/img/20220601_img_rotation_example2.png)  
 <br>
 
 ### 방향 결정 프로세스  
 
-[![방향 결정 프로세스](https://raw.githubusercontent.com/SeungHyeon-Hong/SeungHyeon-Hong.github.io/main/assets/img/20220600_rotation_deside_process.png)](https://raw.githubusercontent.com/SeungHyeon-Hong/SeungHyeon-Hong.github.io/main/assets/img/20220600_rotation_deside_process.png)  
+[![방향 결정 프로세스](https://raw.githubusercontent.com/SeungHyeon-Hong/SeungHyeon-Hong.github.io/main/assets/img/20220601_rotation_deside_process.png)](https://raw.githubusercontent.com/SeungHyeon-Hong/SeungHyeon-Hong.github.io/main/assets/img/20220601_rotation_deside_process.png)  
 <!-- (https://mermaid.live/edit#pako:eNqtVG9r00Ac_irHvdKZQjYYahgbQ_tOYehLIyEmtxloLuOSCmUUWo0wbEEHqwxpSqeMOhis26KMMd_4cZLLd_CSS8ylTtCxe3Ecz--5535_bwsajomgAl1P99BDS98gul17taDiDACP63WtjjcsjLQ14hjIdbdUDNh6Nvcc1GrLgI4HySCkE19LPvXp2I-nh8nHAxqEGh1tx-92o2lnhd_4F2YqGX_3qR_Q3pCOdoACWsjl90U8fZl5oOL_kwbcEJ1O2Y14f0gnXaBgh4vwnYf9Jy8Pu6Ssag9aRgMJeLpMiyDDsxwMHj2pWn4n7PURcyzpMt8-v42_9LWk_yHufa2S_0LiAkEYH5_TSYfHuvSCLN-SpfuyNH9Plhbuyj8vUuhONO3aFiEO4bHcnnngeiI8iUUh4vd-VVW0ZFSWwejsko47dHRQpYqWm8lL1g8FsV0ey1NRgrx0pSEHMuO8TMPt6PQH826lZIgod3d0lMcptOiVzMU0xUFI33Q1GpzTXkD9k-jsWzIYakKf7odMMRnsFd2qgKIv03U9DSHWG9MTJ2M29IqtUpJ2MalXDGClpdhsq7gNJWgjYuuWyX6mbMJU6L1ENlKhwo4mWtebDU-FnKo3PedpCxtQWdcbLpJgc9MsP7MZtG5ankNysP0LRGdS_Q) -->
 
 <p><br></p>
