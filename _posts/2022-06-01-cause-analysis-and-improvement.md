@@ -28,8 +28,8 @@ tags:
   <tr>
     <td>성과</td>
     <td colspan="3">원인 특정<br>
-    개선 방안 검토 & 테스트<br>
-    개선 방안 적용 & 배포 & 공유</td>
+    개선 방안 검토 & 테스트 & 적용<br>
+    이슈 해결</td>
   </tr>
 </table>
 
@@ -74,5 +74,11 @@ tags:
 방향 결정 프로세스  
 [![방향 결정 프로세스](https://raw.githubusercontent.com/SeungHyeon-Hong/SeungHyeon-Hong.github.io/main/assets/img/20220601_rotation_deside_process.png)](https://raw.githubusercontent.com/SeungHyeon-Hong/SeungHyeon-Hong.github.io/main/assets/img/20220601_rotation_deside_process.png)  
 <!-- (https://mermaid.live/edit#pako:eNqtVG9r00Ac_irHvdKZQjYYahgbQ_tOYehLIyEmtxloLuOSCmUUWo0wbEEHqwxpSqeMOhis26KMMd_4cZLLd_CSS8ylTtCxe3Ecz--5535_bwsajomgAl1P99BDS98gul17taDiDACP63WtjjcsjLQ14hjIdbdUDNh6Nvcc1GrLgI4HySCkE19LPvXp2I-nh8nHAxqEGh1tx-92o2lnhd_4F2YqGX_3qR_Q3pCOdoACWsjl90U8fZl5oOL_kwbcEJ1O2Y14f0gnXaBgh4vwnYf9Jy8Pu6Ssag9aRgMJeLpMiyDDsxwMHj2pWn4n7PURcyzpMt8-v42_9LWk_yHufa2S_0LiAkEYH5_TSYfHuvSCLN-SpfuyNH9Plhbuyj8vUuhONO3aFiEO4bHcnnngeiI8iUUh4vd-VVW0ZFSWwejsko47dHRQpYqWm8lL1g8FsV0ey1NRgrx0pSEHMuO8TMPt6PQH826lZIgod3d0lMcptOiVzMU0xUFI33Q1GpzTXkD9k-jsWzIYakKf7odMMRnsFd2qgKIv03U9DSHWG9MTJ2M29IqtUpJ2MalXDGClpdhsq7gNJWgjYuuWyX6mbMJU6L1ENlKhwo4mWtebDU-FnKo3PedpCxtQWdcbLpJgc9MsP7MZtG5ankNysP0LRGdS_Q) -->
+
+## 적용 결과  
+- 인식률 저하 이슈 해결  
+- 디바이스와 유저 환경에 관계없이 동일한 결과값 도출 확인  
+- 방향결정로직이 진행되는 5~10초 간 인식률이 낮음  
+- 방향 결정 이후 인식률 100%  
 
 <p><br></p>
