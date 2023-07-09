@@ -68,9 +68,10 @@ tags:
 <p>런타임에 구동되는 로직이기 때문에 시간과 자원에 제한이 있다.<br>
 가장 성능이 낮은 디바이스를 기준으로 최대 10초 이내, 보급형 디바이스 기준으로 통상 5초 이내에 동작이 완료될 수 있도록 했다.</p>
 
+이미지 회전 각도의 예시  
 [![이미지 회전 각도의 예시](https://raw.githubusercontent.com/SeungHyeon-Hong/SeungHyeon-Hong.github.io/main/assets/img/20220601_img_rotation_example2.png)](https://raw.githubusercontent.com/SeungHyeon-Hong/SeungHyeon-Hong.github.io/main/assets/img/20220601_img_rotation_example2.png)  
 
-### 방향 결정 프로세스  
+방향 결정 프로세스  
 [![방향 결정 프로세스](https://raw.githubusercontent.com/SeungHyeon-Hong/SeungHyeon-Hong.github.io/main/assets/img/20220601_rotation_deside_process.png)](https://raw.githubusercontent.com/SeungHyeon-Hong/SeungHyeon-Hong.github.io/main/assets/img/20220601_rotation_deside_process.png)  
 <!-- (https://mermaid.live/edit#pako:eNqtVG9r00Ac_irHvdKZQjYYahgbQ_tOYehLIyEmtxloLuOSCmUUWo0wbEEHqwxpSqeMOhis26KMMd_4cZLLd_CSS8ylTtCxe3Ecz--5535_bwsajomgAl1P99BDS98gul17taDiDACP63WtjjcsjLQ14hjIdbdUDNh6Nvcc1GrLgI4HySCkE19LPvXp2I-nh8nHAxqEGh1tx-92o2lnhd_4F2YqGX_3qR_Q3pCOdoACWsjl90U8fZl5oOL_kwbcEJ1O2Y14f0gnXaBgh4vwnYf9Jy8Pu6Ssag9aRgMJeLpMiyDDsxwMHj2pWn4n7PURcyzpMt8-v42_9LWk_yHufa2S_0LiAkEYH5_TSYfHuvSCLN-SpfuyNH9Plhbuyj8vUuhONO3aFiEO4bHcnnngeiI8iUUh4vd-VVW0ZFSWwejsko47dHRQpYqWm8lL1g8FsV0ey1NRgrx0pSEHMuO8TMPt6PQH826lZIgod3d0lMcptOiVzMU0xUFI33Q1GpzTXkD9k-jsWzIYakKf7odMMRnsFd2qgKIv03U9DSHWG9MTJ2M29IqtUpJ2MalXDGClpdhsq7gNJWgjYuuWyX6mbMJU6L1ENlKhwo4mWtebDU-FnKo3PedpCxtQWdcbLpJgc9MsP7MZtG5ankNysP0LRGdS_Q) -->
 
