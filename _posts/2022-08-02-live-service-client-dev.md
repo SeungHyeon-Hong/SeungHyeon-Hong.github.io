@@ -55,6 +55,10 @@ AOS(Mobile, Tablet)
 원격 화상 수업 컨텐츠인 클래스룸은 강의 시간 동안 학생들의 상태를 쉽게 모니터링할 수 있어 강의 진행에 도움이 된다.<br>
 또, 강의 종료 후 학생별 / 강의별 데이터를 시각적으로 확인할 수 있어 학생들을 세세하게 관리할 수 있다.   
 
+[![자습실 시작화면](https://raw.githubusercontent.com/SeungHyeon-Hong/SeungHyeon-Hong.github.io/main/assets/img/20220802_classroom_flowchart.jpg)](https://raw.githubusercontent.com/SeungHyeon-Hong/SeungHyeon-Hong.github.io/main/assets/img/20220802_classroom_flowchart.jpg)
+<!-- (https://mermaid.live/edit#pako:eNqrVkrOT0lVslJKy8kvT85ILCpR8AmKyVMAguLSpPSixIIMheLUorLUIohgSlK0hktiSWJSYnGqZixELLEgM9oxwBPKS81LicmDMN9Onfmmea6hrq5dShKyiBGSSGpJcrSenl4sVAhuoo2u7tvGLa_nzXjTtcQmqcjuzYKWN5u2KLzu3fBm7pa3LRuA6l9tmPqmaQ1Ij5KOUm5qUW5iZgrQJ9UgM2KUSjJSc1NjlKyAzJTUtMTSnJIYpZi8WqDSxNKS_ODKvGQlq7TEnOJUHaXSgpTEklSXzESgf3PRRF1TMkvyi6CCtQAO0HB3) -->
+
+
 공부 중 집중도를 확인할 수 있는 자습실 컨텐츠는 학습자가 스스로 과목과 시간을 정해 충실히 자습에 임하면 보상을 지급하는 등 자기주도적 학습 환경을 만들어 준다.<br>
 자습 시간 동안의 감정, 집중도를 수집 & 데이터화하여 시각자료로 확인할 수 있다.
 
