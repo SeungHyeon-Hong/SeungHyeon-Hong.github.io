@@ -47,9 +47,13 @@ Figma, Atlassian
 AOS(Mobile, Tablet) Application
 <br>
 
+<p><br></p>
+
+<hr>
+
 ## 서비스 소개
 <a href="https://www.meemz.co.kr/" target="_blank"><span style="font-size:2em; font-weight:bold;">MEEMZ</span></a> 는 메타버스 기반의 교육 플랫폼이다.<br>
-자신의 아바타로 메인랜드를 돌아다니며 다양한 컨텐츠를 즐기며 학습할 수 있다.
+자신의 아바타로 메인랜드를 돌아다니며 다양한 컨텐츠를 즐기며 학습할 수 있다. 클래스룸, 자습실 이외에도 OX퀴즈, 말하톤 등의 컨텐츠가 있다.
 
 로비 이미지
 [![로비 이미지](https://raw.githubusercontent.com/SeungHyeon-Hong/SeungHyeon-Hong.github.io/main/assets/img/20220802_lobby.jpg)](https://raw.githubusercontent.com/SeungHyeon-Hong/SeungHyeon-Hong.github.io/main/assets/img/20220802_lobby.jpg)
