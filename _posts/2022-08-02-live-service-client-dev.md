@@ -34,17 +34,17 @@ tags:
 </table>
 
 - **개발툴**  
-Unity, Bitbucket  
+Unity, Bitbucket
 <br>
 
 - **소통**  
-Figma, Atlassian  
+Figma, Atlassian
 <br>
 
-- **산출**  
+- **산출물**  
 <a href="https://play.google.com/store/apps/details?id=com.marvrus.moonstudent" target="_blank" style="display:inline-block;">
-<img src="https://play-lh.googleusercontent.com/KSbGN3g-cy5_7KxIUcBmrX0oNwtaeB7muxAotHDSsKNMv9wOrJ4V24YZSJ_gISMPoqT5=w240-h480-rw" style="width: 64px; border-radius: 8px; vertical-align: middle;" alt="MEEMZ AppStore Link"></a>  
-AOS(Mobile, Tablet)    
+<img src="https://play-lh.googleusercontent.com/KSbGN3g-cy5_7KxIUcBmrX0oNwtaeB7muxAotHDSsKNMv9wOrJ4V24YZSJ_gISMPoqT5=w240-h480-rw" style="width: 64px; border-radius: 8px;" alt="MEEMZ AppStore Link"></a> <a href="https://play.google.com/store/apps/details?id=com.marvrus.moonstudent" target="_blank" style="display:inline-block;"><img src="https://play.google.com/intl/en_us/badges/static/images/badges/ko_badge_web_generic.png" style="width: 168px; border-radius: 8px; margin-left:10px;" alt="MEEMZ AppStore Link"></a>  
+AOS(Mobile, Tablet) Application
 <br>
 
 ## 서비스 소개
