@@ -38,21 +38,21 @@ tags:
 <br>
 
 ## 개발이슈  
-1. 이미지 분석 기술은 리소스를 많이 점유하여 기본적으로 **비동기**이다. 이미지를 분석 시작하는 시점과 분석이 종료되는 시점이 다르다.  
-2. 카메라로 촬영한 이미지를 모듈에서 분석하기 위해서 **Mat이라는 자료형**태로 변환을 시킨다.  
-3. 서버에 저장할 데이터는 카메라에 찍힌 이미지 데이터를 jpg 등으로 인코딩한 파일형태이다.  
-4. 한 번 Mat으로 변환한 데이터는 원래대로 되돌릴 수 없다.
+- 이미지 분석 기술은 리소스를 많이 점유하여 기본적으로 **비동기**이다. 이미지를 분석 시작하는 시점과 분석이 종료되는 시점이 다르다.  
+- 카메라로 촬영한 이미지를 모듈에서 분석하기 위해서 **Mat이라는 자료형**태로 변환을 시킨다.  
+- 서버에 저장할 데이터는 카메라에 찍힌 이미지 데이터를 jpg 등으로 인코딩한 파일형태이다.  
+- 한 번 Mat으로 변환한 데이터는 원래대로 되돌릴 수 없다.
 <br>
 
 분석 결과만 저장하던 이전 기획에서는 분석 시작 시 이미지 데이터가 릴리즈 되어도 문제가 없었다. 하지만 바뀐 기획에서는 SDK의 상당부분을 바꾸지 않는 이상 효율적인 매칭이 어려웠다.  
 
 ### 기존 구현 방식  
-- 순서 :  
-이미지 리소스 -> Mat데이터로 변환(이미지 리소스 릴리즈) -> 큐 적재 -> 분석시작 -> 분석완료 -> 분석결과 저장(Mat데이터 릴리즈)
+- 이미지 리소스 -> Mat데이터로 변환(이미지 리소스 릴리즈) -> 큐 적재 -> 분석시작 -> 분석완료 -> 분석결과 저장(Mat데이터 릴리즈)
 <br>
 
-[![기존 구현 방식](https://raw.githubusercontent.com/SeungHyeon-Hong/SeungHyeon-Hong.github.io/main/assets/img/20230120_async_sturucture1.png)](https://raw.githubusercontent.com/SeungHyeon-Hong/SeungHyeon-Hong.github.io/main/assets/img/20230120_async_sturucture1.png)  
-<!-- (https://mermaid.live/edit#pako:eNqNUk1v2zAM_SuETiuQBumwXowhQ4Dk1Bbb6nQnXWiJtjVYkqePZlnR_z7KabOkvewgQHp85HsU-SSU1yQqEelXJqdobbALaKUbMSSjzIguAQJGqNc352hT0Duv80DnAfUvAHVutn0g1NJJ53wi8I8UAKuOEhjbQRu8BYWWAp4Smur7w-ZhU7IG70cgBvcQR1KmNaQhGUufm7Ck3xdszxqXE7vAy-WyqSI5PdVOHrirzAFG_qvU1WJh46kPVZkI6HDY_zGuA-d3X17CA7UJfMuMPXFKc8naqhpZoEgjW1jff_32jux84b6l1tvV_RZWkw6d6x_F5_O5dOrQIT4SBIp5SKAx4bHB0x9WOAynpNLjricHajDEY9o5TNIFUglC13z4eH09u_q0KOfiYHEaUsm6XdVbqFc_Nuv39Yzqgb-IhSHmwOJtwS0mxncm9ZB6Km0WNPXIQ4efOTKZHZN-MS5mghfAotG8ik_SAUjBeZakqPiqqUVWlUK6Z6ZiTr7eOyWqFodIM5FH9vO6um_QjTbJhyNI0_PusPTT7j__BRrHEfs) -->
+[![기존 구현 방식](https://raw.githubusercontent.com/SeungHyeon-Hong/SeungHyeon-Hong.github.io/main/assets/img/20230120_async_sturucture.png)](https://raw.githubusercontent.com/SeungHyeon-Hong/SeungHyeon-Hong.github.io/main/assets/img/20230120_async_sturucture.png)  
+<!-- (https://mermaid.live/edit#pako:eNqNUstu2zAQ_JUFTw3gGE7RXITChQH7lAZtI6eHgpcVuZIYiKTKR1w3yL93KefhOJceBFCzszsz5D4I5TWJSkT6nckpWhvsAlrpRgzJKDOiS4CAEer11Vu0Kei113mgtwX1WoA6N9s-EGrppHM-Efh7CoBVRwmM7aAN3oJCSwGPCU3143Zzuyldg_cjEIN7iCMp0xrSkIylz01Y0p8ztmeNy4ld4Ply2VSRnJ5mJw-cKnOBkf8adbFY2HjsQ1UmAjoc9n-N68D53Zen8kBtAt8yY0_c0pyztqpGFijSyBbWN9--vyM7X7in1Hq7utnCatJ5tXts48XDfD6XTh2C4j1BoJiHBBoTnt6xwmE4rpeUu54cqMEQP9TOYZIukEoQuubDx8vL2cWnRfnODianZypdX1f1FurVz836_TyjeuBLYmGIObB4W3CLifGdST2knkrQgqYe-dnhLkcmc0rST2HFTPAKWDSal_FBOgApuM-SFBUfNbXIqlJI98hUzMnXe6dE1eIQaSbyyH6el_cE3WiTfHgBafq9Pqz9tP0zwWv7y_vnxsd_wmwYXg) -->
+
  
 
 ### 바뀐 구현 방식  
