@@ -4,46 +4,33 @@ title: 이력서
 ---
 
 <style>
-    .ContectBox {
-        margin-top: 30px;
-        text-align: center;
-    }
-
-    .ContectBox ul {
-        display: inline-block;
-        margin: 40px 30px 0;
-    }
-
-    .ContectBox li::marker {
-        content: '';
-    }
-
     .SNSBox {
-        text-align: left;
+        display: grid;
+        place-content: center;
+        place-items: center;
+        grid-auto-flow: column;
     }
 
     .SNSlinks {
         display: inline-block;
-        margin: 10px;
-        vertical-align: middle;
+        padding: 10px;
     }
 
     .SNSlinks img {
-        width: 32px;
+        width: 64px;
     }
 </style>
 
 <div style="margin-top: 50px; margin-bottom: 50px; text-align: center;">
     <h2 id="resume">· 이력서 ·</h2>
-    <!-- <p>2019년부터 프로그래머로 일하고 있습니다.</p> -->
 </div>
 
-<div class="ContectBox">
-    <ul>
-        <li::marker>
-            <h4 id="contact" style="margin: 10px 10px 20px; text-align: left;">연락처</h4>
+<div style="text-align: center;">
+    <ul style="display: inline-block; margin:10px; margin-top:40px;">
+        <li::marker style="content: '';">
+            <h4 id="contact" style="margin: 0; text-align: left;">연락</h4>
         </li::marker>
-        <li::marker>
+        <li::marker style="content: '';">
             <div class="SNSBox">
                 <div class="SNSlinks">
                     <a href="tel:010-2797-4416" target="_blank">
@@ -51,37 +38,26 @@ title: 이력서
                             title="Mobile" alt="Mobile Link icon">
                     </a>
                 </div>
-                <span>010-2797-4416</span>
-            </div>
-        </li::marker>
-        <li::marker>
-            <div class="SNSBox">
                 <div class="SNSlinks">
                     <a href="http://qr.kakao.com/talk/5AGVOFRC5vKu8v7EQn6goqg4Tj0-" target="_blank">
                         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/KakaoTalk_logo.svg/240px-KakaoTalk_logo.svg.png"
                             title="KakaoTalk" alt="KakaoTalk link icon">
                     </a>
                 </div>
-                <span>ID: cambiera</span>
-            </div>
-        </li::marker>
-        <li::marker>
-            <div class="SNSBox">
                 <div class="SNSlinks">
                     <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=trakant32@gmail.com" target="_blank">
                         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/archive/7/7e/20201017164718%21Gmail_icon_%282020%29.svg/120px-Gmail_icon_%282020%29.svg.png"
                             title="Gmail" alt="Gmail link icon">
                     </a>
                 </div>
-                <span>trakant32@gmail.com</span>
             </div>
         </li::marker>
     </ul>
-    <ul>
-        <li::marker>
-            <h4 id="channel" style="margin: 10px 10px 20px; text-align: left;">더 보기</h4>
+    <ul style="display: inline-block; margin:10px; margin-top:40px;">
+        <li::marker style="content: '';">
+            <h4 id="channel" style="margin: 0; text-align: left;">더 보기</h4>
         </li::marker>
-        <li::marker>
+        <li::marker style="content: '';">
             <div class="SNSBox">
                 <div class="SNSlinks">
                     <a href="https://github.com/SeungHyeon-Hong" target="_blank">
@@ -89,29 +65,18 @@ title: 이력서
                             title="Github" alt="Github link icon">
                     </a>
                 </div>
-                <span>github.com/SeungHyeon-Hong</span>
-            </div>
-        </li::marker>
-        <li::marker>
-            <div class="SNSBox">
                 <div class="SNSlinks">
                     <a href="https://blog.naver.com/dusdkel" target="_blank">
                         <img src="https://play-lh.googleusercontent.com/Kbu0747Cx3rpzHcSbtM1zDriGFG74zVbtkPmVnOKpmLCS59l7IuKD5M3MKbaq_nEaZM=w240-rw"
                             title="NaverBlog" alt="NaverBlog link icon">
                     </a>
                 </div>
-                <span>blog.naver.com/dusdkel</span>
-            </div>
-        </li::marker>
-        <li::marker>
-            <div class="SNSBox">
                 <div class="SNSlinks">
                     <a href="https://discord.gg/gw6RBwPxdb" target="_blank">
                         <img src="https://seeklogo.com/images/D/discord-color-logo-E5E6DFEF80-seeklogo.com.png"
                             title="Discord" alt="Discord link icon">
                     </a>
                 </div>
-                <span>Discord server</span>
             </div>
         </li::marker>
     </ul>
